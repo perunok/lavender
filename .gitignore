@@ -3,6 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+lavender_endpoints.postman_collection.v01.json
 
 ### STS ###
 .apt_generated
